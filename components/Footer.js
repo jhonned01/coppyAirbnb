@@ -17,7 +17,7 @@ const Footer = () => {
         <p>Refereas accepted</p>
         <p>jhonned01</p>
       </div>
-      <div lassName="space-y-4 text-xs text-gray-800">
+      <div className="space-y-4 text-xs text-gray-800">
         <h5 className="font-bold">SUPPORTS</h5>
         <p>Accessibility</p>
         <p>This is no a real site</p>
